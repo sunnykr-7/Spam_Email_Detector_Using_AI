@@ -6,7 +6,7 @@ this ai project will filter whether the mail is spam or not in realtime
 so see it
 ---------------
 
-fhjy
+fhjygnigrigjrgj
 THIS is the first project that is there -
 
 
